@@ -1,0 +1,11 @@
+
+body{
+    width: 1080px;
+    background-color: #fffff3;
+    height: 1920px;
+    position: fixed;
+    bottom: -420px;
+    right: 420px;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
